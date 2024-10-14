@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siti%20Mahmudah&fontSize=50&fontAlignY=35&desc=Data%20Engineer%20|%20SQL%20|%20Python%20|%20GCP%20|%20Airflow&descAlignY=50&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siti%20Mahmudah&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Data%20Engineer%20|%20SQL%20|%20Python%20|%20GCP%20|%20Airflow%20|%20DBT%20|%20NoSQL&descAlignY=60&descAlign=50" />
 </p>
 
 # Hello, I'm Siti Mahmudah! 👋
 
-I'm a Data Engineer based in Jakarta, Indonesia, with a passion for driving business effectiveness through accurate and complete data. I have experience in SQL, Python, Google Cloud Platform, Airflow, and various Data Warehouse tools.
+I'm a Data Engineer based in Jakarta, Indonesia, with a passion for driving business effectiveness through accurate and complete data. I have experience in Python, Google Cloud Platform, AWS, SQL, NoSQL, DBT, Airflow, and various Data Warehouse tools.
 
 ## 🚀 About Me
 
