@@ -1,6 +1,40 @@
+<!-- Banner dengan ASCII art sakura dan emoji -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siti%20Mahmudah&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Data%20Engineer%20|%20SQL%20|%20Python%20|%20GCP%20|%20Airflow%20|%20DBT%20|%20NoSQL&descAlignY=60&descAlign=50" />
+  <pre>
+     🌸 ·°• ✿ •°· 🌸
+   ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙
+  ∙   Siti Mahmudah   ∙
+   ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙
+     🌸 ·°• ✿ •°· 🌸
+  </pre>
 </p>
+
+<h3 align="center">Hi, I am Siti Mahmudah and I am a Data Engineer 👩‍💻✨</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NoSQL-4DB33D?style=for-the-badge&logo=MongoDB&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sitimahmudah/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://github.com/dailyaqila"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dailyaqila&show_icons=true&theme=buefy" alt="Siti's GitHub stats" />
+</p>
+
+<p align="center">
+  <pre>
+  🌸 · · · 🌼 · · · 🌸
+  </pre>
+</p>
+
 
 # Hello, I'm Siti Mahmudah! 👋
 
