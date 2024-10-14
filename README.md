@@ -8,7 +8,7 @@ I'm a Data Engineer based in Jakarta, Indonesia, with a passion for driving busi
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as a Data Engineer at Axiata Digital Service Indonesia
+- 🔭 I'm currently working as a Data Engineer at Paper.id
 - 🌱 I'm constantly learning and improving my skills in data engineering and cloud technologies
 - 👯 I'm looking to collaborate on data-driven projects and initiatives
 - 📫 How to reach me: sitimahmud96@gmail.com
