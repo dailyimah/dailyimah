@@ -30,11 +30,11 @@ I'm a Data Engineer based in Jakarta, Indonesia, with a passion for driving busi
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sitimahmudah/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dailyaqila)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dailyimah)
 
 ## 📊 GitHub Stats
 
-![Siti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailyaqila&show_icons=true&theme=radical)
+![Siti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailyimah&show_icons=true&theme=radical)
 
 ---
 
