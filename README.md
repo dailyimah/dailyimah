@@ -23,15 +23,18 @@ I'm a Data Engineer based in Jakarta, Indonesia, with a passion for driving busi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Pentaho](https://img.shields.io/badge/-Pentaho-0E3D59?style=flat-square)
+![DBT](https://img.shields.io/badge/-DBT-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ArangoDB](https://img.shields.io/badge/-ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black)
 
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sitimahmudah/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dailyimah)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/dailyaqila)
 
 ## 📊 GitHub Stats
 
-![Siti's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitimahmud96&show_icons=true&theme=radical)
+![Siti's GitHub stats](https://github-readme-stats.vercel.app/api?username=dailyaqila&show_icons=true&theme=radical)
 
 ---
 
